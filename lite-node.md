@@ -102,3 +102,9 @@ Yan cüzdan oluşturmak için, Metamask üzerinde yeni bir cüzdan oluşturarak 
 
 Bu, projenin kök dizininde bir `.env` dosyası oluşturan tek seferlik bir yapılandırma sürecidir.
 ```
+
+
+#Kurulum tamamlandıktan sonra docker logları akmaya başlayacaktır. Bu aşamada `CTRL+C` ile docker container'ı durdurup aşağıdaki komut ile docker'ı arka planda ayağa kaldırabilirsiniz.
+```bash
+docker compose up -d
+```
