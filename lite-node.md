@@ -58,8 +58,6 @@ sudo apt update -y && sudo apt upgrade -y
 sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
 ```
 
-Elbette, verdiğiniz talimatları Türkçeye çevirerek bir Markdown dosyası formatında düzenleyeceğim:
-
 # Snapshotter Lite Düğüm Kurulum Rehberi
 
 Bu rehber, PowerLoom deposundan Snapshotter Lite düğümünü klonlama, kurma ve çalıştırma adımlarını adım adım anlatmaktadır.
